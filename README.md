@@ -41,3 +41,5 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerkolt&show_icons=true&locale=en&layout=compact" alt="nerkolt" /></p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
