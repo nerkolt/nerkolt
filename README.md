@@ -43,4 +43,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 </details>
 
-[![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&custom_title=My%20activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nerkolt&point=403d3d&area=true&theme=dracula&custom_title=My%20activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
