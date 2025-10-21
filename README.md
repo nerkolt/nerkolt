@@ -40,4 +40,4 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 
-[![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=My%20activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&custom_title=My%20activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
