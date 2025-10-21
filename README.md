@@ -12,15 +12,17 @@
 
 - 📄 Know about my experiences [Download my résumé ](https://drive.google.com/uc?export=download&id=1aGGSletd0SQ4SIMdq9l_f5aPDpZjCbH2)
 
-<h3 align="left">Connect with me:</h3>
+<details>
+<summary>Connect with me:</summary>
 <p align="left">
 <a href="https://twitter.com/i_seek_kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_seek_kh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nour ltaief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour ltaief" height="30" width="40" /></a>
 </p>
-
+</details>
 <h3 align="left">Languages and Tools:</h3>
 
-#### Programming Languages
+<details>
+<summary>🛠️Programming Languages</summary>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/></a>
@@ -39,5 +41,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
+</details>
 
 [![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&custom_title=My%20activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
