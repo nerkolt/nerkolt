@@ -40,6 +40,6 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerkolt&show_icons=true&locale=en&layout=compact" alt="nerkolt" /></p>
+[<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerkolt&show_icons=true&locale=en&layout=compact" alt="nerkolt" /></p>
 
-![Snake animation](https://github.com/nerkolt/nerkolt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nerkolt/nerkolt/blob/output/github-contribution-grid-snake.svg)](url)
