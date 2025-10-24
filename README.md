@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
 <h3 align="center">A Game Programmer from Tunisia</h3>
 
-- 🌱 I’m currently learning **c++ in UE5 an Procedural Generation**
+- 🌱 I’m currently learning **c++ in UE5 and Procedural Generation**
 
 - 📚 I’m currently reading [The Unity Shaders Bible](https://jettelly.com/store/the-unity-shaders-bible)
 
