@@ -46,3 +46,9 @@
 </details>
 
 [![My github github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nerkolt&point=403d3d&area=true&theme=dracula&custom_title=My%20activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
