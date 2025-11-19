@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nour0ltaief@gmail.com**
 
-- 📄 Know about my experiences [Download my résumé ](https://drive.google.com/uc?export=download&id=1aGGSletd0SQ4SIMdq9l_f5aPDpZjCbH2)
+- 📄 Know about my experiences [Download my resume ](https://drive.google.com/uc?export=download&id=1aGGSletd0SQ4SIMdq9l_f5aPDpZjCbH2)
 
 <details>
 <summary>
