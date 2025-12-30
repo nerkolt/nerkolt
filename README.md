@@ -17,7 +17,7 @@
   <h3 align="left">💭 ✧˚Connect with me:</summary></summary>
 <p align="left">
 <a href="https://twitter.com/i_seek_kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_seek_kh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nour ltaief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour ltaief" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nour-ltaief-f667/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour ltaief" height="30" width="40" /></a>
 </p>
 </details>
 <details>
